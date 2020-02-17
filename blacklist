@@ -510,8 +510,6 @@ itunes.apple.com.edgekey.net
 itunes-cdn.itunes-apple.com.akadns.net
 itunes.com
 itunesconnect.apple.com
-keyvalueservice.fe.apple-dns.net
-keyvalueservice.icloud.com
 km.support.apple.com
 lcdn-locator.apple.com
 lcdn-locator-usuqo.apple.com.akadns.net
@@ -576,8 +574,6 @@ p11-fmfmobile.fe.apple-dns.net
 p11-fmfmobile.icloud.com
 p11-fmip.fe.apple-dns.net
 p11-fmip.icloud.com
-p11-keyvalueservice.fe.apple-dns.net
-p11-keyvalueservice.icloud.com
 p11-quota.fe.apple-dns.net
 p11-quota.icloud.com
 p13-content.fe.apple-dns.net
@@ -596,8 +592,6 @@ p16-escrowproxy.fe.apple-dns.net
 p16-escrowproxy.icloud.com
 p16-fmfmobile.fe.apple-dns.net
 p16-fmfmobile.icloud.com
-p16-keyvalueservice.fe.apple-dns.net
-p16-keyvalueservice.icloud.com
 p17-buy.itunes.apple.com
 p17-buy.itunes-apple.com.akadns.net
 p17-calendars.fe.apple-dns.net
@@ -644,8 +638,6 @@ p23-fmfmobile.fe.apple-dns.net
 p23-fmfmobile.icloud.com
 p23-fmip.fe.apple-dns.net
 p23-fmip.icloud.com
-p23-keyvalueservice.fe.apple-dns.net
-p23-keyvalueservice.icloud.com
 p23-quota.fe.apple-dns.net
 p23-quota.icloud.com
 p23-streams.fe.apple-dns.net
@@ -682,8 +674,6 @@ p30-escrowproxy.fe.apple-dns.net
 p30-escrowproxy.icloud.com
 p30-fmfmobile.fe.apple-dns.net
 p30-fmfmobile.icloud.com
-p30-keyvalueservice.fe.apple-dns.net
-p30-keyvalueservice.icloud.com
 p30-quota.fe.apple-dns.net
 p30-quota.icloud.com
 p31-buy.itunes.apple.com
@@ -706,8 +696,6 @@ p32-fmfmobile.fe.apple-dns.net
 p32-fmfmobile.icloud.com
 p32-fmip.fe.apple-dns.net
 p32-fmip.icloud.com
-p32-keyvalueservice.fe.apple-dns.net
-p32-keyvalueservice.icloud.com
 p32-quota.fe.apple-dns.net
 p32-quota.icloud.com
 p33-content.fe.apple-dns.net
@@ -729,8 +717,6 @@ p34-fmfmobile.icloud.com
 p34-fmip.fe.apple-dns.net
 p34-fmip.icloud.com
 p34-imap.mail.me.com.akadns.net
-p34-keyvalueservice.fe.apple-dns.net
-p34-keyvalueservice.icloud.com
 p34-mailws.icloud.com
 p34-mailws.icloud.com.akadns.net
 p34-quota.fe.apple-dns.net
@@ -763,8 +749,6 @@ p38-escrowproxy.fe.apple-dns.net
 p38-escrowproxy.icloud.com
 p38-fmfmobile.fe.apple-dns.net
 p38-fmfmobile.icloud.com
-p38-keyvalueservice.fe.apple-dns.net
-p38-keyvalueservice.icloud.com
 p38-quota.fe.apple-dns.net
 p38-quota.icloud.com
 p38-sharedstreams.fe.apple-dns.net
@@ -809,7 +793,6 @@ p46-content.icloud.com
 p46-fmf.icloud.com
 p46-fmfmobile.icloud.com
 p46-fmip.icloud.com
-p46-keyvalueservice.icloud.com
 p46-quota.icloud.com
 p47-buy.itunes.apple.com
 p47-content.fe.apple-dns.net
@@ -845,8 +828,6 @@ p59-escrowproxy.icloud.com
 p59-fmfmobile.fe.apple-dns.net
 p59-fmfmobile.icloud.com
 p59-imap.mail.me.com.akadns.net
-p59-keyvalueservice.fe.apple-dns.net
-p59-keyvalueservice.icloud.com
 p59-mailws.icloud.com
 p59-mailws.icloud.com.akadns.net
 p59-quota.fe.apple-dns.net
@@ -855,8 +836,6 @@ p60-caldav.fe.apple-dns.net
 p60-caldav.icloud.com
 p60-calendars.fe.apple-dns.net
 p60-calendars.icloud.com
-p61-keyvalueservice.fe.apple-dns.net
-p61-keyvalueservice.icloud.com
 p62-calendars.fe.apple-dns.net
 p62-calendars.icloud.com
 p65-availability.fe.apple-dns.net
@@ -883,8 +862,6 @@ p65-fmfmobile.fe.apple-dns.net
 p65-fmfmobile.icloud.com
 p65-fmip.fe.apple-dns.net
 p65-fmip.icloud.com
-p65-keyvalueservice.fe.apple-dns.net
-p65-keyvalueservice.icloud.com
 p65-quota.fe.apple-dns.net
 p65-quota.icloud.com
 p66-availability.fe.apple-dns.net
@@ -899,8 +876,6 @@ p66-fmfmobile.fe.apple-dns.net
 p66-fmfmobile.icloud.com
 p66-fmip.fe.apple-dns.net
 p66-fmip.icloud.com
-p66-keyvalueservice.fe.apple-dns.net
-p66-keyvalueservice.icloud.com
 p66-quota.fe.apple-dns.net
 p66-quota.icloud.com
 p72-buy.itunes.apple.com

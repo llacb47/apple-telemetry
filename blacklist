@@ -357,10 +357,6 @@ client-api-cdn.itunes-apple.com.akadns.net
 client-api.itunes.apple.com
 cma.itunes.apple.com
 cma.itunes-apple.com.akadns.net
-commnat-cohort.ess.apple.com
-commnat-cohort-gc.ess.apple.com
-commnat-main.ess.apple.com
-commnat-main-gc.ess.apple.com
 configuration.apple.com
 configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
@@ -471,8 +467,6 @@ iadsdk.apple.com
 iadsdk.apple.com.edgekey.net
 identity.apple.com
 identity.apple.com.akadns.net
-identity.ess.apple.com
-identity.ess-apple.com.akadns.net
 idiagnostics.apple.com
 idiagnostics.apple.com.akadns.net
 idmsa.apple.com
@@ -480,8 +474,6 @@ iforgot.apple.com
 images.apple.com
 images.apple.com.akadns.net
 init-cdn.itunes-apple.com.akadns.net
-init.ess.apple.com
-init.ess.apple.com.edgesuite.net
 init.itunes.apple.com
 init-p01md.apple.com
 init-p01md.apple.com.edgesuite.net
@@ -906,10 +898,6 @@ prod.ols.live.com.akadns.net
 prod.omextemplates.live.com.akadns.net
 prod.roaming1.live.com.akadns.net
 prod-w.nexus.live.com.akadns.net
-profile.ess.apple.com
-profile.ess-apple.com.akadns.net
-query.ess.apple.com
-query.ess-apple.com.akadns.net
 quota.fe.apple-dns.net
 radarsubmissions.apple.com
 radarsubmissions.apple.com.akadns.net
@@ -941,7 +929,6 @@ sp.itunes.apple.com
 sp.itunes-apple.com.akadns.net
 ssl.apple.com
 static.deviceservices.apple.com
-static.ess.apple.com
 statici.icloud.com
 static.ips.apple.com
 store-005.blobstore.apple.com

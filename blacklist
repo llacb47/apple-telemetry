@@ -482,8 +482,6 @@ images.apple.com.akadns.net
 init-cdn.itunes-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.gc.apple.com
-init.gc.apple.com.edgesuite.net
 init.itunes.apple.com
 init-p01md.apple.com
 init-p01md.apple.com.edgesuite.net
@@ -927,8 +925,6 @@ searn.ce.apple-dns.net
 securemetrics.apple.com
 seed.siri.apple.com
 se.itunes.apple.com
-service.gc.apple.com
-service.gc-apple.com.akadns.net
 settings.crashlytics.com
 setup.fe.apple-dns.net
 setup.icloud.com
@@ -946,8 +942,6 @@ sp.itunes-apple.com.akadns.net
 ssl.apple.com
 static.deviceservices.apple.com
 static.ess.apple.com
-static.gc.apple.com
-static.gc.apple.com.edgekey.net
 statici.icloud.com
 static.ips.apple.com
 store-005.blobstore.apple.com

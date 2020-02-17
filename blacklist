@@ -187,9 +187,6 @@ appldnld.apple.com.akadns.net
 appldnld.g.aaplimg.com
 apple.com
 apple-finance.query.yahoo.com
-appleid.apple.com
-appleid.apple.com.akadns.net
-appleid.cdn-apple.com
 apple-mobile.query.yahooapis.com
 apple.news
 appleweather-cache.internal.query.g03.yahoodns.net
@@ -282,8 +279,6 @@ identity.apple.com
 identity.apple.com.akadns.net
 idiagnostics.apple.com
 idiagnostics.apple.com.akadns.net
-idmsa.apple.com
-iforgot.apple.com
 images.apple.com
 images.apple.com.akadns.net
 init-p01md.apple.com
@@ -297,7 +292,6 @@ iphonesubmissions.apple.com.akadns.net
 iphonesubmissions-old.apple.com
 isg-apple.com.akadns.net
 itunesconnect.apple.com
-km.support.apple.com
 lcdn-locator.apple.com
 lcdn-locator-usuqo.apple.com.akadns.net
 metrics.apple.com
@@ -663,7 +657,6 @@ store-021-failover2.blobstore-apple.com.akadns.net
 store-022.blobstore.apple.com
 store-022-failover2.blobstore-apple.com.akadns.net
 store-023-failover2.blobstore-apple.com.akadns.net
-support.apple.com
 swcdn.apple.com
 swscan.apple.com
 tbsc.apple.com

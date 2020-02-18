@@ -163,9 +163,7 @@ any-appleweather-cache.internal.query.a03.yahoodns.net
 api-aka.smoot.apple.com
 api.apple-cloudkit.com
 api.apple-cloudkit.fe.apple-dns.net
-api.apps.apple.com
 api.developer.apple.com
-api-edge.apps.apple.com
 api-glb-ams.smoot.apple.com
 api-glb-ash.smoot.apple.com
 api-glb-atl.smoot.apple.com
@@ -185,7 +183,6 @@ api.weather.com
 appldnld.apple.com
 appldnld.apple.com.akadns.net
 appldnld.g.aaplimg.com
-apple.com
 apple-finance.query.yahoo.com
 apple-mobile.query.yahooapis.com
 apple.news

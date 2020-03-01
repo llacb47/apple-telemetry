@@ -248,8 +248,6 @@ gblon.ce.apple-dns.net
 gbman.ce.apple-dns.net
 gcs-eu-00002.content-storage-download.googleapis.com
 gdcrl.godaddy.com.akadns.net
-gdmf.apple.com
-gdmf.apple.com.akadns.net
 gs.apple.com
 gs.apple.com.akadns.net
 gsas.apple.com
@@ -273,7 +271,7 @@ iphonesubmissions.apple.com.akadns.net
 iphonesubmissions-old.apple.com
 isg-apple.com.akadns.net
 itunesconnect.apple.com
-lcdn-locator.apple.com
+lcdn-locator.apple.com # AssetCacheLocatorService
 lcdn-locator-usuqo.apple.com.akadns.net
 metrics.apple.com
 metrics.icloud.com

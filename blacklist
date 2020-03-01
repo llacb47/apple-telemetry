@@ -188,7 +188,6 @@ apsu.apple.com
 ax.phobos.apple.com.edgesuite.net
 basejumper.apple.com
 bn2-client-s.msnmessenger.msn.com.akadns.net
-cdn.cvws.apple-dns.net
 cdn-icloud-content.g.aaplimg.com
 cdn.smoot.apple.com
 cds.apple.com
@@ -203,7 +202,6 @@ cl4.apple.com
 cl4-cdn.origin-apple.com.akadns.net
 cl5.apple.com
 cl5-cdn.origin-apple.com.akadns.net
-cvws.apple-dns.net
 daypass.api-aka.smoot.apple.com
 daypass.api-glb-atl.smoot.apple.com
 daypass.api-glb-lon.smoot.apple.com
@@ -244,6 +242,8 @@ gs.apple.com
 gs.apple.com.akadns.net
 gsas.apple.com
 gsas.apple.com.akadns.net
+iad.apple.com
+iadcontent.apple.com
 iadsdk.apple.com
 iadsdk.apple.com.edgekey.net
 identity.apple.com

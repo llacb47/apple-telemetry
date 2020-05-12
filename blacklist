@@ -150,6 +150,7 @@
 0.0.0.0 eu-irl-00001.s3.dualstack.eu-west-1.amazonaws.com
 0.0.0.0 aidc.apple.com
 0.0.0.0 albert.apple.com
+0.0.0.0 appidnid.apple.com
 0.0.0.0 appldnld.apple.com
 0.0.0.0 apps.apple.com
 0.0.0.0 amp-api-edge.apps.apple.com
@@ -176,6 +177,7 @@
 0.0.0.0 cf.iadsdk.apple.com
 0.0.0.0 tr.iadsdk.apple.com
 0.0.0.0 ut.iadsdk.apple.com
+0.0.0.0 iadsk.apple.com
 0.0.0.0 identity.apple.com
 0.0.0.0 idiagnostics.apple.com
 0.0.0.0 images.apple.com
@@ -368,5 +370,3 @@
 0.0.0.0 apple-mobile.query.yahooapis.com
 0.0.0.0 any-appleweather-cache.internal.query.a03.yahoodns.net
 0.0.0.0 appleweather-cache.internal.query.g03.yahoodns.net
-0.0.0.0 iadsk.apple.com
-0.0.0.0 appidnid.apple.com

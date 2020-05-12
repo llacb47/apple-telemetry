@@ -10,6 +10,7 @@
 0.0.0.0 pipe.cloudapp.aria.akadns.net
 0.0.0.0 dw-cbsi.cnet-basic-performance.akadns.net
 0.0.0.0 appldnld.apple.com.akadns.net
+0.0.0.0 csig.apple.com
 0.0.0.0 gsas.apple.com.akadns.net
 0.0.0.0 identity.apple.com.akadns.net
 0.0.0.0 idiagnostics.apple.com.akadns.net

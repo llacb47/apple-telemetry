@@ -6,7 +6,6 @@
 0.0.0.0 a1598.phobos.g.aaplimg.com
 0.0.0.0 a506.phobos.g.aaplimg.com
 0.0.0.0 a682.phobos.g.aaplimg.com
-0.0.0.0 world-gen.g.aaplimg.com
 0.0.0.0 zeusmedia.g.aaplimg.com
 0.0.0.0 pipe.cloudapp.aria.akadns.net
 0.0.0.0 dw-cbsi.cnet-basic-performance.akadns.net
@@ -35,15 +34,12 @@
 0.0.0.0 mt-ingestion-service-st11.itunes-apple.com.akadns.net
 0.0.0.0 xp.itunes-apple.com.akadns.net
 0.0.0.0 daf.xp.itunes-apple.com.akadns.net
-0.0.0.0 europe.configsvc1.live.com.akadns.net
-0.0.0.0 us.configsvc1.live.com.akadns.net
 0.0.0.0 prod-w.nexus.live.com.akadns.net
 0.0.0.0 prod.ocws1.live.com.akadns.net
 0.0.0.0 us2.ocws1.live.com.akadns.net
 0.0.0.0 europe.odcsm1.live.com.akadns.net
 0.0.0.0 prod.odcsm1.live.com.akadns.net
 0.0.0.0 us2.odcsm1.live.com.akadns.net
-0.0.0.0 prod.ols.live.com.akadns.net
 0.0.0.0 prod.omextemplates.live.com.akadns.net
 0.0.0.0 prod.roaming1.live.com.akadns.net
 0.0.0.0 iphone-services.ls-apple.com.akadns.net
@@ -60,7 +56,6 @@
 0.0.0.0 prd.col.aria.mobile.skypedata.akadns.net
 0.0.0.0 pipe.prd.skypedata.akadns.net
 0.0.0.0 msg-media.valueclick.akadns.net
-0.0.0.0 a1051.b.akamai.net
 0.0.0.0 a1428.b.akamai.net
 0.0.0.0 a1507.b.akamai.net
 0.0.0.0 a1755.b.akamai.net
@@ -134,7 +129,6 @@
 0.0.0.0 a1668.g2.akamai.net
 0.0.0.0 a296.g2.akamai.net
 0.0.0.0 a1414.g4.akamai.net
-0.0.0.0 a1441.g4.akamai.net
 0.0.0.0 a948.ga.akamai.net
 0.0.0.0 a1271.gi3.akamai.net
 0.0.0.0 a1907.r.akamai.net
@@ -344,7 +338,6 @@
 0.0.0.0 edge-003.usnyc.ce.apple-dns.net
 0.0.0.0 edge-035.usnyc.ce.apple-dns.net
 0.0.0.0 api.apple-cloudkit.fe.apple-dns.net
-0.0.0.0 us-east-1-dynamic.meta-weights.apple-dns.net
 0.0.0.0 e.crashlytics.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 iadsdk.apple.com.edgekey.net
@@ -375,3 +368,5 @@
 0.0.0.0 apple-mobile.query.yahooapis.com
 0.0.0.0 any-appleweather-cache.internal.query.a03.yahoodns.net
 0.0.0.0 appleweather-cache.internal.query.g03.yahoodns.net
+0.0.0.0 iadsk.apple.com
+0.0.0.0 appidnid.apple.com

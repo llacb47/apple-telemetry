@@ -10,9 +10,7 @@
 0.0.0.0 pipe.cloudapp.aria.akadns.net
 0.0.0.0 dw-cbsi.cnet-basic-performance.akadns.net
 0.0.0.0 appldnld.apple.com.akadns.net
-0.0.0.0 csig.apple.com
 0.0.0.0 gsas.apple.com.akadns.net
-0.0.0.0 supportmetrics.apple.com
 0.0.0.0 identity.apple.com.akadns.net
 0.0.0.0 idiagnostics.apple.com.akadns.net
 0.0.0.0 images.apple.com.akadns.net
@@ -162,6 +160,7 @@
 0.0.0.0 cl3.apple.com
 0.0.0.0 cl4.apple.com
 0.0.0.0 cl5.apple.com
+0.0.0.0 csig.apple.com
 0.0.0.0 static.deviceservices.apple.com
 0.0.0.0 devimages-cdn.apple.com
 0.0.0.0 api.edu.apple.com
@@ -299,6 +298,7 @@
 0.0.0.0 daypass.api-glb-sto.smoot.apple.com
 0.0.0.0 cdn.smoot.apple.com
 0.0.0.0 ssl.apple.com
+0.0.0.0 supportmetrics.apple.com
 0.0.0.0 tbsc.apple.com
 0.0.0.0 tv.apple.com
 0.0.0.0 sb.tv.apple.com

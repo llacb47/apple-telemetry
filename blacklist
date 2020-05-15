@@ -6,7 +6,6 @@
 0.0.0.0 a1598.phobos.g.aaplimg.com
 0.0.0.0 a506.phobos.g.aaplimg.com
 0.0.0.0 a682.phobos.g.aaplimg.com
-0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 zeusmedia.g.aaplimg.com
 0.0.0.0 pipe.cloudapp.aria.akadns.net
 0.0.0.0 dw-cbsi.cnet-basic-performance.akadns.net
@@ -169,6 +168,7 @@
 0.0.0.0 iadcontent.apple.com
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 cf.iadsdk.apple.com
+0.0.0.0 news.iadsdk.apple.com
 0.0.0.0 tr.iadsdk.apple.com
 0.0.0.0 ut.iadsdk.apple.com
 0.0.0.0 identity.apple.com
@@ -176,7 +176,6 @@
 0.0.0.0 images.apple.com
 0.0.0.0 internalcheck.apple.com
 0.0.0.0 iphone-ld.apple.com
-0.0.0.0 news.iadsdk.apple.com
 0.0.0.0 iphone-services.apple.com
 0.0.0.0 iphonesubmissions.apple.com
 0.0.0.0 iphonesubmissions-old.apple.com
@@ -299,6 +298,7 @@
 0.0.0.0 daypass.api-glb-sto.smoot.apple.com
 0.0.0.0 cdn.smoot.apple.com
 0.0.0.0 ssl.apple.com
+0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 supportmetrics.apple.com
 0.0.0.0 tbsc.apple.com
 0.0.0.0 tv.apple.com
